@@ -50,3 +50,7 @@ section {
   background-repeat: no-repeat;
   background-position: right;
 }
+
+.para {
+  padding-right: 10%;
+}
